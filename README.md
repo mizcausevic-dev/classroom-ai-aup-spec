@@ -111,6 +111,7 @@ A family of open specifications for the answer-engine and agent era:
 | [AI Tutor Cards](https://github.com/mizcausevic-dev/ai-tutor-card-spec) | EdTech-specialized agent disclosure (vendor-side) |
 | [Student AI Disclosure](https://github.com/mizcausevic-dev/student-ai-disclosure-spec) | Student-side disclosure attached to submitted work |
 | **Classroom AI AUP** (this) | District / school / course AI policy (the third leg of the EdTech trio) |
+| [AI Incident Card](https://github.com/mizcausevic-dev/ai-incident-card-spec) | Post-incident disclosure ("CVE for AI agents") — cross-cuts the entire Suite |
 
 ---
 
