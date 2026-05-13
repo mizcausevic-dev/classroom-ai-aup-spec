@@ -95,7 +95,7 @@ Three JSON documents. Two joins. One answer.
 
 ## License
 
-AGPL-3.0. Specification text is freely implementable; schema and examples are AGPL-3.0.
+MIT-licensed. The specification text, JSON Schema, and example documents in this repository may be freely implemented, extended, redistributed, or incorporated into commercial or non-commercial products with attribution. Reference implementations of this spec (such as [mcp-kinetic-gain](https://github.com/mizcausevic-dev/mcp-kinetic-gain)) are licensed separately under AGPL-3.0.
 
 ## Kinetic Gain Protocol Suite
 
