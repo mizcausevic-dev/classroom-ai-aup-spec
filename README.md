@@ -1,5 +1,8 @@
 # Classroom AI Acceptable Use Policy (AUP)
 
+[![Validate examples](https://github.com/mizcausevic-dev/classroom-ai-aup-spec/actions/workflows/validate.yml/badge.svg)](https://github.com/mizcausevic-dev/classroom-ai-aup-spec/actions/workflows/validate.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 A draft specification for **Classroom AI AUPs** — machine-readable district-, school-, course-, or assignment-level declarations of what AI use is permitted in an educational setting.
 
 Today, school AI policies live in 20-page PDFs. An AUP makes the operational subset of that policy *machine-readable*: an LMS reads one JSON document at submission time and resolves "is this allowed?" in O(1).
